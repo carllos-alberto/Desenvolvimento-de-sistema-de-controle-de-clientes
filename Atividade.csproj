@@ -1,0 +1,10 @@
+<Project Sdk=Microsoft.NET.Sdk">
+
+    <ProjectGroup>
+        <OutPutType>Exe</OutPutType>
+        <TargetFramework>Windows</TargetFramework>
+        <implicitUsing>enabled</implicitUsing>
+        <Nullable>disable</Nullable>
+    </PropertyGroup>
+
+</Project>
